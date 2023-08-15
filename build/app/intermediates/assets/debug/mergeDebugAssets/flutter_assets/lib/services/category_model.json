@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "Electronic Guitar",
+      "subcategory": [
+        "Yamaha",
+        "Fender",
+        "Gibson"
+
+      ]
+    },
+    {
+      "name": "Acoustic Guitar",
+      "subcategory": [
+        "Yamaha",
+        "Fender",
+        "Signature"
+
+      ]
+    },
+    {
+      "name": "Semi-Acoustic Guitar",
+      "subcategory": [
+        "Deviser",
+        "Fender",
+        "Yamaha"
+
+      ]
+    }
+
+  ]
+}
